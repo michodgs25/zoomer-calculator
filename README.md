@@ -1,5 +1,3 @@
-![calculators](https://imgs.classicfm.com/images/127345?crop=16_9&width=660&relax=1&signature=RCyAZMoGxetvA5EMMn9rg4Qd3BQ=)
-
 <h2 align="center"> Zoomer Calculations </h2>
 <div align="center">
 <img src="https://imgs.classicfm.com/images/127345?crop=16_9&width=660&relax=1&signature=RCyAZMoGxetvA5EMMn9rg4Qd3BQ=" 
