@@ -25,4 +25,10 @@ def divide(a, b):
 def multiple(a, b):
     print(f"MULTIPLE {a} * {b}")
     return a * b
- 
+
+
+numberOne = input("Enter a number: ")
+numberTwo = input("Enter another number: ")
+result = float(numberOne), float(numberTwo)
+
+print(result)
